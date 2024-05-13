@@ -1,0 +1,15 @@
+export const INPUT_COLORS = {
+  input_label: '#000000',
+  input_placeholder_bg_disabled: '#dedede',
+  input_placeholder_default: '#B4B7C3',
+  input_placeholder_outline: '#B4B7C3',
+  input_placeholder_dark: '#fff',
+  input_text_default: '#000000',
+  input_text_outline: '#000000',
+  input_text_dark: '#708ED7',
+  input_error: 'red',
+  input_help: '#000000',
+  input_background: '#F0F0F5',
+  input_background_dark: '#A5A5A5',
+  input_border: 'transparent',
+}

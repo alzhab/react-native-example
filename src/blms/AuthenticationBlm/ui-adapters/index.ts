@@ -1,0 +1,5 @@
+export * from './auth-plug.adapter'
+export * from './authorization.adapter'
+export * from './is-authorized.adapter'
+export * from './registration.adapter'
+export * from './changeTempPassword.adapter'
